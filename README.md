@@ -1,1 +1,1 @@
-### Inventry and Invoice system
+## Inventry and Invoice system
