@@ -20,7 +20,7 @@
         * Finally, start the server
 ### Step 4:
    3. Backend
-        * Same procedure, after dowmload directory type "npm install" in CMD from backend directory
+        * Same procedure, after download directory type "npm install" in CMD from backend directory
         * Check .env file all variable are correct
 ### Step 5:
    To run frontend use "npm run dev" in CMD to run developmemt server
